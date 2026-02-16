@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "また明日",
+  "base_artist": "MonsterZ MATE",
+  "createdAt": "2026-02-16T13:09:22.703033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soredewa, Mata Ashita [それでは、また明日]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_Soredewa,_Mata_Ashita_[それでは、また明日]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "輝＆輝(KIKI)",
+      "has_synced": false,
+      "path": "select/02_また明日_輝&輝(KIKI).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "輝&輝",
+      "has_synced": false,
+      "path": "select/03_また明日_輝&輝.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "KIKI",
+      "has_synced": false,
+      "path": "select/04_また明日_KIKI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Well Then, See You Again Tomorrow (それでは、また明日)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_Well_Then,_See_You_Again_Tomorrow_(それでは、また明日)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": false,
+      "path": "select/06_また明日_OGRE_YOU_ASSHOLE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おやすみ、また明日",
+      "artist": "伊藤真澄",
+      "has_synced": false,
+      "path": "select/07_おやすみ、また明日_伊藤真澄.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "それでは、また明日",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_それでは、また明日_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "また明日...",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/09_また明日..._JUJU.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/10_また明日_ゆず.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "それでは、また明日",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/11_それでは、また明日_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/12_また明日_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "また明日",
+      "artist": "桂ヒナギク (伊藤静)",
+      "has_synced": false,
+      "path": "select/13_また明日_桂ヒナギク_(伊藤静).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "それでは、また明日 - Well Then, See You Again Tomorrow",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/14_それでは、また明日_-_Well_Then,_See_You_Again_Tomorrow_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また明日",
+      "artist": "MonsterZ MATE",
+      "has_synced": false,
+      "path": "select/pl_01_また明日_MonsterZ_MATE.txt"
+    }
+  ]
+}
